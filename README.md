@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">▹Bem-vindo(a) ao meu perfil! Sou estudante, desenvolvedora fullstack de Londrina, Brasil.<br><br> ▹ Atualmente faço graduação de Análise e Desenvolvimento de Sistemas, em Pontifícia Universidade Católica do Paraná.</p>
+<p align="left">▹Bem-vindo(a) ao meu perfil! Sou estudante, desenvolvedora fullstack de Londrina, Brasil.<br><br> ▹ Atualmente faço graduação de Análise e Desenvolvimento de Sistemas, em Pontifícia Universidade Católica do Paraná.<br><br>💭 "Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida." Confúcio.</p>
 
 ###
 
